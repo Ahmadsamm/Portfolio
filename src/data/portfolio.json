@@ -1,0 +1,46 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "GGWP",
+            "description": "Resume,Lebenslauf",
+            "url": "https://drive.google.com/file/d/1rmbTJKXBXxQFhpTGucoFfdaJJlK9YzAG/view?usp=sharing"
+        },
+        {
+            "cover": "/portfolio/1/JavaScript.png",
+            "title": "GGWP",
+            "description": "Modern Webapplication with JavaScript",
+            "url": "https://drive.google.com/file/d/1ye9nWcASvX6JO8a5mkEbehQhc0j_G7oP/view?usp=sharing"
+        },
+        {
+            "cover": "/portfolio/1/Php.png",
+            "title": "GGWP",
+            "description": "Php&Mysql",
+            "url": "https://drive.google.com/file/d/1rCSv9k3PzPl6AkoJi_lSdQVc-0qKjrYq/view?usp=sharing"
+        },
+        {
+            "cover": "/portfolio/1/Pc_and_Laptop repair.png",
+            "title": "GGWP",
+            "description": "Pc and Laptop Maintenance",
+            "url": "https://drive.google.com/file/d/1Bww38C4Z3n7-de3aHuRoDTujVWdrtDXy/view?usp=sharing"
+        },
+        {
+            "cover": "/portfolio/1/Computer maintenance and assembly.png",
+            "title": "GGWP",
+            "description": "Computer maintenance and assembly",
+            "url": "https://drive.google.com/file/d/1HcDJvPVIADIiXOgAWjkR1yBGYK9b5uyi/view?usp=sharing"
+        },
+        {
+            "cover": "/portfolio/1/Mcdonalds.png",
+            "title": "GGWP",
+            "description": "Shift Leadership Transitions Course",
+            "url": "https://drive.google.com/file/d/1DjLcZ6ktVNBAIiNReuOwmlZFD1SAf6TE/view?usp=sharing"
+        },
+        {
+            "cover": "/portfolio/1/Integration_course.png",
+            "title": "GGWP",
+            "description": "Integration course & my first German test",
+            "url": "https://drive.google.com/file/d/1IqXB_k0o7QtcgpExebZpomZ8RiW0FNIS/view?usp=sharing"
+        }
+    ]
+}
